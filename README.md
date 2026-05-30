@@ -19,11 +19,11 @@ SmartExpense Tracker is an Android-based mobile application developed using **Ja
 
 | Splash Screen | Login Screen | Dashboard |
 |---------------|--------------|-----------|
-| ![Splash](screenshots/splash_screen.png) | ![Login](screenshots/login_screen.png) | ![Dashboard](screenshots/dashboard_screen.png) |
+| ![Splash](Screenshots/splash.jpeg) | ![Login](Screenshots/Login.jpeg) | ![Dashboard](Screenshots/Dshboard) |
 
 | Register Screen | Add Expense Screen |
 |-----------------|--------------------|
-| ![Register](screenshots/signup_screen.png) | ![Add Expense](screenshots/feature_screen.png) |
+| ![Register](Screenshots/Signup.jpeg) | ![Add Expense](Screenshots/Add.jpeg) |
 
 ---
 
