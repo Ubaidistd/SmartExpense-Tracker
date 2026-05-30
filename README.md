@@ -84,7 +84,13 @@ Download and install the latest APK directly on your Android device:
 5. Run the app on an emulator or a physical Android device.
 
 ---
+## Privacy Policy
 
+This app collects user email and expense data, stored securely on Firebase. We do not share or sell any user data to third parties. Users can delete their account and data at any time.
+
+[📄 View Full Privacy Policy](Docs/privacy_policy.pdf)
+
+---
 
 
 ## Future Enhancements
@@ -113,10 +119,4 @@ GitHub: [Your GitHub Profile Link](https://github.com/YourUsername)
 LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/YourProfile)
 
 ---
-## Privacy Policy
 
-This app collects user email and expense data, stored securely on Firebase. We do not share or sell any user data to third parties. Users can delete their account and data at any time.
-
-[📄 View Full Privacy Policy](docs/privacy_policy.pdf)
-
----
