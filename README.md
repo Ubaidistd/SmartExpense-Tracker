@@ -108,7 +108,7 @@ This app collects user email and expense data, stored securely on Firebase. We d
 ## Developed By
 
 **Ubaid Ur Rehman & Aown Abbas**
-Class / Semester: [Your Semester]
+Class / Semester: 6th
 Department of Computer Science
 University of Layyah
 
