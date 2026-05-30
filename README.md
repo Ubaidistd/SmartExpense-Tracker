@@ -19,11 +19,11 @@ SmartExpense Tracker is an Android-based mobile application developed using **Ja
 
 | Splash Screen | Login Screen | Dashboard |
 |---------------|--------------|-----------|
-| ![Splash](Screenshots/splash.jpeg) | ![Login](Screenshots/Login.jpeg) | ![Dashboard](Screenshots/Dshboard) |
+| ![Splash](Screenshots/splash.jpeg) | ![Login](Screenshots/Login.jpeg) | ![Dashboard](Screenshots/Dashboard.jpeg) |
 
 | Register Screen | Add Expense Screen |
 |-----------------|--------------------|
-| ![Register](Screenshots/Signup.jpeg) | ![Add Expense](Screenshots/Add.jpeg) |
+| ![Register](Screenshots/Signin.jpeg) | ![Add Expense](Screenshots/Add.jpeg) |
 
 ---
 
@@ -55,7 +55,7 @@ SmartExpense Tracker is an Android-based mobile application developed using **Ja
 
 Download and install the latest APK directly on your Android device:
 
-[⬇️ Download APK](apk/SmartExpenseTracker.apk)
+[⬇️ Download APK](apk/SmartExpensiveTracker.apk)
 
 ---
 
@@ -82,14 +82,6 @@ Download and install the latest APK directly on your Android device:
    - Create a new project and download `google-services.json`
    - Place it inside the `/app` folder
 5. Run the app on an emulator or a physical Android device.
-
----
-
-## Demo Video
-
-> Add a short demo video link here once available.
-
-[▶️ Watch Demo Video](demo-video-link)
 
 ---
 
@@ -128,30 +120,4 @@ LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/YourProfile)
 
 ---
 
-## Repository Structure
-
-```
-SmartExpenseTracker/
-├── app/
-│   └── (Complete Android project source code)
-├── screenshots/
-│   ├── splash_screen.png
-│   ├── login_screen.png
-│   ├── signup_screen.png
-│   ├── dashboard_screen.png
-│   └── feature_screen.png
-├── apk/
-│   └── SmartExpenseTracker.apk
-├── docs/
-│   ├── privacy_policy.pdf
-│   └── user_manual.pdf
-├── README.md
-├── LICENSE
-├── .gitignore
-├── build.gradle
-└── settings.gradle
-```
-
----
-
-> *SmartExpense Tracker — Take control of your money, one expense at a time.*
+ol of your money, one expense at a time.*
