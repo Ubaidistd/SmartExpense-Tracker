@@ -115,7 +115,7 @@ University of Layyah
 **Submitted To:** Ma'am Nabiha Komal
 **Course:** Mobile Application Development
 
-GitHub: [Your GitHub Profile Link](https://github.com/YourUsername)
+GitHub: [Your GitHub Profile Link](https://github.com/ubaidistd)
 LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/YourProfile)
 
 ---
